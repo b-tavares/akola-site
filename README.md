@@ -1,25 +1,27 @@
 # Akolá | Arte, produção & comunicação
+<h4 align="center"> 
+	🚧 Em construção 🚧
+</h4>
 
 Projeto de website one page para agência artística, de comunicação e produção que permita, futuramente, exibição de portfolio. 
 
 ## Demandas
 
-- Design moderno;
+- Design moderno, em consonância com a marca;
 - Responsividade, contemplando dispositivos de menor resolução;
-- Informações de contato;
-- Direcionamento para redes sociais.
+- Direcionamento para redes sociais;
 
-## Seções
-
-- Serviços ofertados;
-- Portfolio;
+### Deve conter as seções:
+- Lista de serviços ofertados;
+- Possibilidade de inserir portfolio;
 - Sobre;
 - Contato.
 
-### Autora
+## Autoria
 - **Bárbara Tavares** - Design, formatação e responsividade - [Github](https://github.com/b-tavares)
 
 ### Deployment
 - Netlify
 
+---
 2023. Todos os direitos reservados.
