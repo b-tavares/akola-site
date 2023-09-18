@@ -3,7 +3,7 @@
 > [!NOTE]
 > Projeto em andamento.
 
-Projeto de website one page para agência artística, de comunicação e produção que permita, futuramente, exibição de portfolio. 
+Projeto de website *one page* para agência artística, de comunicação e produção que permita, futuramente, exibição de portfolio. 
 
 ## Demandas
 
@@ -35,6 +35,6 @@ Feito com ❤️ por [**Bárbara Tavares**](https://github.com/b-tavares) - Desi
 - Netlify
 
 ---
-<h4 align="right"> 
+<h4 align="center"> 
 	2023.
 </h4> 
