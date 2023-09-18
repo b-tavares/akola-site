@@ -21,10 +21,10 @@ Projeto de website one page para agência artística, de comunicação e produç
 - Contato.
 
 ### Features
-- [x] Design geral do site
-- [x] Responsividade
-- [x] Botão *scroll to top*
-- [x] Formulário de contato
+- [ ] Design geral do site
+- [ ] Responsividade
+- [ ] Botão *scroll to top*
+- [ ] Formulário de contato
 - [ ] Portfolio (demanda externa)
 - [ ] Links para redes sociais (demanda externa)
 
