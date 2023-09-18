@@ -21,12 +21,12 @@ Projeto de website one page para agência artística, de comunicação e produç
 - Contato.
 
 ### Features
-[x] Design geral do site
-[x] Responsividade
-[x] Botão *scroll to top*
-[x] Formulário de contato
-[ ] Portfolio
-[ ] Links para redes sociais
+- [x] Design geral do site
+- [x] Responsividade
+- [x] Botão *scroll to top*
+- [x] Formulário de contato
+- [ ] Portfolio (demanda externa)
+- [ ] Links para redes sociais (demanda externa)
 
 ## Autoria
 Feito com ❤️ por [**Bárbara Tavares**](https://github.com/b-tavares) - Design, formatação e responsividade
